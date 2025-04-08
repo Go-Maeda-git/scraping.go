@@ -1,2 +1,2 @@
-# go-scraping
+# go-scraper
 スクレイピングコードGoLangの練習
