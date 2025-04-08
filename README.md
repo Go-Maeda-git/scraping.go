@@ -1,2 +1,2 @@
-# scraping.go
+# go-scraping
 スクレイピングコードGoLangの練習
